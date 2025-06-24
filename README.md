@@ -19,4 +19,5 @@ Entries are orginized by date.
 ~ Monitoring Microservice with Metrics  
 ~ Building Resilient Microservices  
 ~ Securing Microservices  
-~ Microservice Deployment   
+~ Microservice Deployment
+- test
